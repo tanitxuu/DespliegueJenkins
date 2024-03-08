@@ -13,7 +13,9 @@ function App() {
       </div>
       <div className='tareas-lista-principal'>
         <h1>Mis Tareas</h1>
-        <ListaDeTareas />
+       <p>Tarea de Tania Viaña Alvarez </p>
+
+ <ListaDeTareas />
       </div>
     </div>
   );
